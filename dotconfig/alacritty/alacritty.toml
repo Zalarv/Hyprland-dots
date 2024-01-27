@@ -35,18 +35,18 @@ white   = '#ebdbb2'
 size = 16
 
 [font.bold]
-family = "JetBrains Mono"
+family = "JetBrainsMonoNerdFont"
 style = "Bold"
 
 [font.bold_italic]
-family = "JetBrains Mono"
+family = "JetBrainsMonoNerdFont"
 style = "Bold Italic"
 
 [font.italic]
-family = "JetBrains Mono"
+family = "JetBrainsMonoNerdFont"
 style = "Italic"
 
 [font.normal]
-family = "JetBrains Mono"
+family = "JetBrainsMonoNerdFont"
 style = "Regular"
 
