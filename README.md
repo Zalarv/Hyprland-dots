@@ -1,3 +1,8 @@
 # Hyprland-dots
 
-My Hyprland dots not much here just for clonning.
+all of the stuff used in the rice
+alacritty
+wofi
+waybar
+discord
+spotify
